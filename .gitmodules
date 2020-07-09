@@ -1,0 +1,6 @@
+[submodule "lib/RF24"]
+	path = lib/RF24
+	url = https://github.com/nRF24/RF24.git
+[submodule "lib/RF24Audio"]
+	path = lib/RF24Audio
+	url = https://github.com/nRF24/RF24Audio.git
